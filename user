@@ -1,5 +1,5 @@
 memory_limit=256M
-upload_max_filesize=2000000M
-post_max_size=2000000M
+upload_max_filesize=3000000M
+post_max_size=3000000M
 max_execution_time=900000
 max_input_time=300002
